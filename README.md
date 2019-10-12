@@ -1,6 +1,9 @@
 # DxyzGenoLike
 Snakemake workflow to obtain Dxyz on Genotype Likelihoods
 
+
+Go to https://github.com/tplinderoth/introDist.git if you are working on called Genotypes and want to read more about the Dxyz method developed by Tyler Linderoth.  
+
 Dependencies:
 - PopGenomicTools (https://github.com/tplinderoth/PopGenomicsTools.git)
 - Snakemake (https://github.com/snakemake/snakemake)
