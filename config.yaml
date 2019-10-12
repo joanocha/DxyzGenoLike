@@ -1,0 +1,13 @@
+input_dx: "path/to/pop1.mafs.gz"
+input_dy: "path/to/pop2.mafs.gz"
+input_dz: "path/to/pop3.mafs.gz"
+
+output_dir: "."
+
+
+dxyWindow_path: "path/to/PopGenomicsTools/dxyWindow" 
+
+
+window_step_pairs:
+- [5000, 1250]
+- [1000, 250]
