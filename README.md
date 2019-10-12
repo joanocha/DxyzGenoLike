@@ -1,5 +1,5 @@
 # DxyzGenoLike
-Snakemake workflow to obtain Dxyz on Genotype Likelihoods
+Snakemake workflow to perform Linderoth's Dxyz method on Genotype Likelihoods
 
 
 Go to https://github.com/tplinderoth/introDist.git if you are working on called Genotypes and want to read more about the Dxyz method developed by Tyler Linderoth.  
